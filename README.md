@@ -1,1 +1,2 @@
 # mlops_perumals
+## This lab covers five core modules of a basic MLOps workflow: creating a virtual environment, setting up a GitHub repository, writing Python source files, testing with pytest and unittest, and automating those tests with GitHub Actions.
